@@ -139,7 +139,7 @@ Verify from the VirtualBox that the Virtual machine is already running:
 vagrant ssh
 
 ```
-![alt text](image/g.png)
+![alt text](image/G.png)
 
 
  ## Step 4 - Test the Web Server
