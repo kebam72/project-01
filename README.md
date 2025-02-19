@@ -63,7 +63,8 @@ The vagrant init command generates a default Vagrantfile in your project directo
 
 see example below
 
-![alt text](image/d.png)
+
+![alt text](image/D.png)
 
 
 
